@@ -11,7 +11,7 @@ export default function Home() {
           <p class='text-xl font-bold'>
             Today will be better than yesterday
           </p>
-          <p class='text-xl'>
+          <p class='text-xl font-medium '>
             Anytime something positive happens, make a note of it and come back to it later.
           </p>
         </section>
