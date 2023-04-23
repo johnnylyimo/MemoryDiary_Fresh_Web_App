@@ -5,7 +5,7 @@ export default function PageLayout({children, title}:{children:any, title:string
         <>
             <Head>
                 <title>{title}</title>
-                <meta name="description" />
+                <meta name="description" content="MemoryDiary's home page" />
             </Head>
         </>
     )
