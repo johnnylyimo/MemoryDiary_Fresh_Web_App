@@ -8,7 +8,7 @@ export default function Home() {
           <h1 class="text-2xl font-bold uppercase pt-4 tracking-wide">
             Word of the day
           </h1>
-          <p>
+          <p class='text-xl'>
             Today will be better than yesterday
           </p>
         </section>
