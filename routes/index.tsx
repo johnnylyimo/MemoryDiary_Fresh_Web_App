@@ -9,7 +9,7 @@ export default function Home() {
             Word of the day
           </h1>
           <p>
-            
+            Today will be better than yesterday
           </p>
         </section>
       </main>
