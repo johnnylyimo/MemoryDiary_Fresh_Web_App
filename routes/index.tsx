@@ -2,8 +2,8 @@ import PageLayout  from "../components/PageLayout.tsx";
 
 export default function Home() {
   return (
-    <main>
+    <PageLayout >
       <h1>Hello Folks</h1>
-    </main>
+    </PageLayout>
   );
 }
