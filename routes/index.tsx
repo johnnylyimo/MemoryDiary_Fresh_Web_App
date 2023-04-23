@@ -3,7 +3,7 @@ import PageLayout  from "../components/PageLayout.tsx";
 export default function Home() {
   return (
     <PageLayout title='Home | MemoryDiary'>
-      <main className="w-full h-screen flex flex-col lg:flex-row lg:justify-around gap-8 text-center ">
+      <main className="w-full h-screen flex flex-col lg:flex-row lg:justify-around gap-8 text-center p-4">
       </main>
 
     </PageLayout>
