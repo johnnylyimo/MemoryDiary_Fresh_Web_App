@@ -5,6 +5,7 @@ export default function PageLayout({children, title}:{children:any, title:string
         <>
             <Head>
                 <title>{title}</title>
+                <meta></meta>
             </Head>
         </>
     )
