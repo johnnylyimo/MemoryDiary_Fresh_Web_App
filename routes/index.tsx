@@ -11,6 +11,9 @@ export default function Home() {
           <p class='text-xl font-bold'>
             Today will be better than yesterday
           </p>
+          <p>
+            
+          </p>
         </section>
       </main>
 
