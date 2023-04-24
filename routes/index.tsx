@@ -1,4 +1,4 @@
 import PageLayout  from "../components/PageLayout.tsx";
 
-<PageLayout>
+<PageLayout title='Home | MemoryDiary'>
 </PageLayout>
