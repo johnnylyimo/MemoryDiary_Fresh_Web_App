@@ -1,5 +1,7 @@
-
+import { useState } from "preact/hooks";
 export default function CreateDisplayMemory() {
+
+  
   return (
       <div className="w-full h-screen flex flex-col lg:flex-row lg:justify-around gap-8 text-center p-4">
         <section class="max-w-screen-sm mx-auto lg:max-w-xxl rounded-lg p-2 bg-[#ce93d8] self-start">
@@ -16,7 +18,7 @@ export default function CreateDisplayMemory() {
             <label class='block text(md gray-900) font-medium mb-2'>
               Write new memory below
             </label>
-            <textarea rows={4} class='block w-full text(base gray-900) p-2 bg-[#ce93d8] rounded-lg border-4 border-[#ac5eb9dc] focus:outline-none placeholder-gray-500' placeholder='Write new memory here...'>
+            <textarea rows={4} class='block w-full text(base gray-900) p-2 bg-[#ce93d8] rounded-lg border-4 border-[#ac5eb9dc] focus:outline-none placeholder-gray-500' placeholder='Write new memory here...' >
             </textarea>
             <button class='text-white text-2xl font-medium bg-[#ac5eb9dc] mt-6 px-3 py-2 rounded-lg hover:bg-[#800080]'>
               Save
@@ -26,11 +28,10 @@ export default function CreateDisplayMemory() {
             </label>
           </form >
         </section>
-        <section class='max-w-screen-md lg:w-full mx-auto rounded-lg p-2 border border-white'>
+        <section class='max-w-screen-md lg:w-full mx-auto rounded-lg p-2'>
           <h1 class='text-2xl text-start font-bold'>
             Highlights
           </h1>
-
         </section>
       </div>
   );
