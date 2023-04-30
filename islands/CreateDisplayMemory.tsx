@@ -3,6 +3,7 @@ export default function CreateDisplayMemory() {
   const [inputedMemory, setInputedMemory] = useState({
     id:"",
     title: "",
+    content: ""
   });
   
   return (
