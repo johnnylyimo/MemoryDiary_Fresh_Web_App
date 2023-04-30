@@ -16,8 +16,8 @@ export default function CreateDisplayMemory() {
             <label class='block text(md gray-900) font-medium mb-2'>
               Write new memory below
             </label>
-            <textarea>
-              
+            <textarea rows={4}>
+
             </textarea>
 
           </form >
