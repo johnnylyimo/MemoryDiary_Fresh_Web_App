@@ -22,7 +22,7 @@ export default function CreateDisplayMemory() {
               Save
             </button>
             <label>
-              
+              Remember the good times
             </label>
           </form >
         </section>
