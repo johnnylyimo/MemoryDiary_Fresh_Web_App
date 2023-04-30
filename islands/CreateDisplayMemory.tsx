@@ -21,7 +21,9 @@ export default function CreateDisplayMemory() {
             <button class='text-white text-2xl font-medium bg-[#ac5eb9dc] mt-6 px-3 py-2 rounded-lg hover:bg-[#800080]'>
               Save
             </button>
-
+            <label>
+              
+            </label>
           </form >
         </section>
       </div>
