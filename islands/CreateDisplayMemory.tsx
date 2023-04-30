@@ -26,6 +26,9 @@ export default function CreateDisplayMemory() {
             </label>
           </form >
         </section>
+        <section>
+          
+        </section>
       </div>
   );
 }
