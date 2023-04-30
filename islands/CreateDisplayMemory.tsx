@@ -28,7 +28,7 @@ export default function CreateDisplayMemory() {
         </section>
         <section class='max-w-screen-md lg:w-full mx-auto rounded-lg p-2'>
           <h1>
-            
+            Highlights
           </h1>
 
         </section>
