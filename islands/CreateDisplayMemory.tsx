@@ -26,7 +26,7 @@ export default function CreateDisplayMemory() {
             </label>
           </form >
         </section>
-        <section class='max-w-screen-md lg:w-full mx-auto rounded-lg'>
+        <section class='max-w-screen-md lg:w-full mx-auto rounded-lg p-2'>
 
         </section>
       </div>
