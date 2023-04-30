@@ -18,7 +18,7 @@ export default function CreateDisplayMemory() {
             </label>
             <textarea rows={4} class='block w-full text(base gray-900) p-2 bg-[#ce93d8] rounded-lg border-4 border-[#ac5eb9dc] focus:outline-none placeholder-gray-500' placeholder='Write new memory here...'>
             </textarea>
-            <button>
+            <button class='text-white'>
               Save
             </button>
 
