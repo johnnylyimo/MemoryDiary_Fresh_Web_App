@@ -27,7 +27,7 @@ export default function CreateDisplayMemory() {
           </form >
         </section>
         <section class='max-w-screen-md lg:w-full mx-auto rounded-lg p-2 border border-white'>
-          <h1 class='text-2xl '>
+          <h1 class='text-2xl text-start'>
             Highlights
           </h1>
 
