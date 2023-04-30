@@ -13,7 +13,7 @@ export default function CreateDisplayMemory() {
             Anytime something positive happens, make a note of it and come back to it later.
           </p>
           <form class='p-2 mt-6'>
-            <label class='block text(md gray-900) font-medium'>
+            <label class='block text(md gray-900) font-medium mb-2'>
               Write new memory below
             </label>
 
