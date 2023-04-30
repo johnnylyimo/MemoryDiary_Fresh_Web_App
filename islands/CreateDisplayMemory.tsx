@@ -2,7 +2,7 @@ import { useState } from "preact/hooks";
 export default function CreateDisplayMemory() {
   const [inputedMemory, setInputedMemory] = useState({
     id:"",
-
+    title: "",
   });
   
   return (
