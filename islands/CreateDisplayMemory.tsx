@@ -26,8 +26,8 @@ export default function CreateDisplayMemory() {
             </label>
           </form >
         </section>
-        <section>
-          
+        <section class='max-w-screen-md'>
+
         </section>
       </div>
   );
