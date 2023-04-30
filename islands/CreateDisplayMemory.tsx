@@ -16,7 +16,7 @@ export default function CreateDisplayMemory() {
             <label class='block text(md gray-900) font-medium mb-2'>
               Write new memory below
             </label>
-            <textarea rows={4} class='block w-full text(base gray-900) p-2 bg-[#ce93d8]'>
+            <textarea rows={4} class='block w-full text(base gray-900) p-2 bg-[#ce93d8] rounded-lg'>
 
             </textarea>
 
