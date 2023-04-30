@@ -1,6 +1,9 @@
 import { useState } from "preact/hooks";
 export default function CreateDisplayMemory() {
-  const [inputedMemory, setInputedMemory] = useState();
+  const [inputedMemory, setInputedMemory] = useState({
+    id:"",
+
+  });
   
   return (
       <div className="w-full h-screen flex flex-col lg:flex-row lg:justify-around gap-8 text-center p-4">
