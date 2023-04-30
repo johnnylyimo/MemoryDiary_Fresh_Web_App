@@ -6,7 +6,7 @@ export default function CreateDisplayMemory() {
     content: ""
   });
 
-  const [editMemoryPopUp]=useState();
+  const [editMemoryPopUp, setEditMemoryPopUp]=useState();
   
   return (
       <div className="w-full h-screen flex flex-col lg:flex-row lg:justify-around gap-8 text-center p-4">
