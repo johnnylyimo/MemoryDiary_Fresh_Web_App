@@ -24,5 +24,6 @@ model User {
 
 
 model Memory {
-  
+  id Int @id @default(sequence() )
+
 }
