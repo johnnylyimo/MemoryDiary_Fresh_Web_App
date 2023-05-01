@@ -27,5 +27,6 @@ model Memory {
   id Int @id @default(sequence() )
   title String 
   content String 
+  userId Int
 
 }
