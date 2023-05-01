@@ -1,1 +1,1 @@
-import {Prisma} from '../generated/client/deno/edge.ts'
+import {Prisma, PrismaClient} from '../generated/client/deno/edge.ts'
