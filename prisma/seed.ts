@@ -1,0 +1,1 @@
+import {Prisma} from '../generated/client/deno/edge.ts'
