@@ -17,5 +17,6 @@ model User {
   id Int @id @default(sequence() )
   name String 
   username String 
- 
+  email String @unique 
+
 }
