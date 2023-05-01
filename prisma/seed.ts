@@ -21,3 +21,4 @@ const newUser = await prisma.user.create({
 });
 
 console.log(`User has been created with id: ${newUser.id}`);
+await prisma.$disconnect()
