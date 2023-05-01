@@ -19,3 +19,5 @@ const newUser = await prisma.user.create({
         email: 'john@gmail.com'
     },
 });
+
+console.log(`User has been created with id: ${newUser.id}`);
