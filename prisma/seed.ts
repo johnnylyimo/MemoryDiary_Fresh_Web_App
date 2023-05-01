@@ -6,7 +6,7 @@ const env = await load();
 const prisma = new PrismaClient({
     datasources: {
         db: {
-            
+            url: env["DATABASE_URL"]
         }
     }
 })
