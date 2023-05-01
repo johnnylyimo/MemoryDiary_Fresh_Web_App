@@ -16,5 +16,6 @@ const newUser = await prisma.user.create({
     data: {
         name: 'John', 
         username: 'Linus',
+        email: 'john@gmail.com'
     },
 });
