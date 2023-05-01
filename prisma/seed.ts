@@ -14,6 +14,7 @@ const prisma = new PrismaClient({
 
 const newUser = await prisma.user.create({
     data: {
+        name: 'John', 
        
     },
 });
