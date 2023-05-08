@@ -1,7 +1,7 @@
 
 export default function Header() {
   return (
-    <header class='flex justify-center pt-5 text-4xl '>
+    <header class='flex justify-center pt-5 text-4xl font-bold '>
         <a href="/">Home</a>
     </header>
   )
