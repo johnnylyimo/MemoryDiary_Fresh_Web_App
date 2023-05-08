@@ -1,7 +1,7 @@
 
 export default function Header() {
   return (
-    <header>
+    <header class='flex'>
         <a href="/">Home</a>
     </header>
   )
