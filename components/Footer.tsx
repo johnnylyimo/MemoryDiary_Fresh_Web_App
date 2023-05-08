@@ -5,6 +5,8 @@ import IconMapPinFilled from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/map
 
 export default function Footer() {
   return (
-    
+    <footer>
+        
+    </footer>
   )
 }
