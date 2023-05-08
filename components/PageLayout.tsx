@@ -1,4 +1,5 @@
 import { Head } from "$fresh/runtime.ts";
+import Header from "./Header.tsx";
 
 export default function PageLayout({children, title}:{children:any, title:string}) {
     return (
