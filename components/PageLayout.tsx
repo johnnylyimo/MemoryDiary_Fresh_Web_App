@@ -2,7 +2,7 @@ import { Head } from "$fresh/runtime.ts";
 import { ComponentChildren } from "preact";
 import Header from "./Header.tsx";
 
-export default function PageLayout({children, title}:{children:any, title:string}) {
+export default function PageLayout({children, title}:{children:ComponentChildren, title:string}) {
     return (
         <>
             <Head>
