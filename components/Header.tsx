@@ -2,8 +2,7 @@
 export default function Header() {
   return (
     <header>
-        <a href=""></a>
-
+        <a href="/">Home</a>
     </header>
   )
 }
