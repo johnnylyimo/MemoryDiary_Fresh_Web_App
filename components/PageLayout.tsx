@@ -13,6 +13,7 @@ export default function PageLayout({children, title}:{children:ComponentChildren
             <main class='w-full h-full bg-[#E1BEE7]'> 
              <Header />
              {children}
+             <Footer />
             </main>
         </>
     )
