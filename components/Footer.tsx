@@ -6,7 +6,7 @@ import IconMapPinFilled from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/map
 export default function Footer() {
   const year = new Date().getFullYear();
   return (
-    <footer>
+    <footer class='w-full'>
     </footer>
   )
 }
