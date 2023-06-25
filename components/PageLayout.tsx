@@ -1,6 +1,7 @@
 import { Head } from "$fresh/runtime.ts";
 import { ComponentChildren } from "preact";
 import Header from "./Header.tsx";
+import Footer from "./Footer.tsx";
 
 export default function PageLayout({children, title}:{children:ComponentChildren, title:string}) {
     return (
