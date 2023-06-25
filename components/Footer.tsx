@@ -7,6 +7,9 @@ export default function Footer() {
   const year = new Date().getFullYear();
   return (
     <footer class='w-full mb-0 p-4 mt-20 bg-[#ce93d8] grid md:grid-cols-5 gap-4'>
+      <section>
+        
+      </section>
     </footer>
   )
 }
