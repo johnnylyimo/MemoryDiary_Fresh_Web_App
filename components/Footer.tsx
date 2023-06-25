@@ -10,7 +10,7 @@ export default function Footer() {
       <section class='md:col-span-2 flex flex-col items-center gap-1 text-center'>
       <img src="/brand.png" alt="logo picture" />
       <p>
-        
+        MolysTechie is tech startup, specialized on developing Mobile Apps, Web Apps and Wep APIs. It's senior Developer is John L. Lyimo, the guy who developed this Website using Astro Framework
       </p>
 
       </section>
