@@ -14,8 +14,8 @@ export default function Footer() {
       </p>
       </section>
 
-      <section>
-        
+      <section class='grid '>
+
       </section>
     </footer>
   )
