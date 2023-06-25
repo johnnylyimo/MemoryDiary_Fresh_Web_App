@@ -14,7 +14,7 @@ export default function Footer() {
       </p>
       </section>
 
-      <section class='grid '>
+      <section class='grid md:col-span-3 '>
 
       </section>
     </footer>
