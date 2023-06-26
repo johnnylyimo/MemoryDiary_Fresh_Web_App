@@ -22,7 +22,10 @@ export default function Footer() {
             </h1>
             <div className="grid gap-y-1">
               <a href="https://github.com/johnnylyimo"  target="_blank" class="text-xl text-blue-500 font-bold" >
-              GitHub
+                GitHub
+              </a>
+              <a >
+
               </a>
             </div>
 
