@@ -47,6 +47,9 @@ export default function Footer() {
             <h1 class="text-lg font-bold">
               Contact Me
             </h1>
+            <div className="">
+              
+            </div>
 
           </div>
 
