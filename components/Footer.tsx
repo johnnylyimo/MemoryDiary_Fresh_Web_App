@@ -43,7 +43,7 @@ export default function Footer() {
               </p>
             </div>
           </div>
-          <div className="flex ">
+          <div className="flex flex-col ">
 
           </div>
 
