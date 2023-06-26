@@ -39,7 +39,7 @@ export default function Footer() {
             <div className="flex justify-center gap-x-1">
               <IconMapPinFilled class="w-6 h-6" />
               <p>
-                
+                MolysTechie SiliconLab, Kijitonyama, Dar-es-Salaam
               </p>
                 
             </div>
