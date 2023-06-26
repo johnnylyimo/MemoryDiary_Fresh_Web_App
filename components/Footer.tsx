@@ -17,8 +17,8 @@ export default function Footer() {
       <section class='grid md:col-span-3 gap-6 text-center'>
         <div className="grid gap-y-6 md:flex md:justify-around">
           <div className="flex flex-col gap-2">
-            <h1>
-              
+            <h1 class="text-lg ">
+
             </h1>
 
           </div>
