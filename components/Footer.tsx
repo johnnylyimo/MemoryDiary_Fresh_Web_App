@@ -36,8 +36,8 @@ export default function Footer() {
             <h1 class="text-lg font-bold">
               Find Me
             </h1>
-            <div className="">
-              
+            <div className="flex">
+
             </div>
 
           </div>
