@@ -60,7 +60,10 @@ export default function Footer() {
         <hr class="max-w-xxl border-t-2 border-[#ac5eb9dc]" />
         <div class="grid text-xl font-semibold">
           <p>
-            
+            <span>
+              
+            </span>
+
           </p>
 
         </div>
