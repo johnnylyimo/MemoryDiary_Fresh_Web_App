@@ -58,7 +58,7 @@ export default function Footer() {
           </div>
         </div>
         <hr class="max-w-xxl border-t-2 border-[#ac5eb9dc]" />
-        <div class="grid text-xl ">
+        <div class="grid text-xl font-semibold">
 
         </div>
       </section>
