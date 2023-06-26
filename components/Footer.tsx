@@ -47,7 +47,7 @@ export default function Footer() {
             <h1 class="text-lg font-bold">
               Contact Me
             </h1>
-            <div class="flex justify-center ">
+            <div class="flex justify-center gap-x-1">
               <IconPhone class="w-6 h-6" />
             </div>
 
