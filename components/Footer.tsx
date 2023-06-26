@@ -53,6 +53,7 @@ export default function Footer() {
             </div>
             <div className="flex justify-center gap-x-1">
               <IconMail class="w-6 h-6" />
+              <p></p>
 
             </div>
 
