@@ -48,7 +48,7 @@ export default function Footer() {
               Contact Me
             </h1>
             <div className="">
-              <IconPhone  />
+              <IconPhone class="h-6" />
             </div>
 
           </div>
