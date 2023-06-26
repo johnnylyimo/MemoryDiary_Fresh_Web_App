@@ -37,7 +37,7 @@ export default function Footer() {
               Find Me
             </h1>
             <div className="flex justify-center gap-x-1">
-              <IconMapPinFilled class="h-6" />
+              <IconMapPinFilled class="w-6 h-6" />
                 
             </div>
 
