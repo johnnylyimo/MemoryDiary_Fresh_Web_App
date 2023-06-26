@@ -25,7 +25,7 @@ export default function Footer() {
                 GitHub
               </a>
               <a >
-
+                Twitter
               </a>
             </div>
 
