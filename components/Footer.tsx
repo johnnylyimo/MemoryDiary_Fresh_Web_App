@@ -27,7 +27,7 @@ export default function Footer() {
               <a href="https://twitter.com/johnnylyimo" target="_blank" class="text-xl text-blue-500 font-bold">
                 Twitter
               </a>
-              <a href="https://www.linkedin.com/in/johnnylyimo" >
+              <a href="https://www.linkedin.com/in/johnnylyimo" target="_blank" >
 
               </a>
             </div>
