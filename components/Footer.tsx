@@ -52,7 +52,7 @@ export default function Footer() {
               <p>0715 291029</p>
             </div>
             <div className="flex justify-center gap-x-1">
-              <IconMail  />
+              <IconMail class="h-6" />
 
             </div>
 
