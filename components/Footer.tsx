@@ -45,7 +45,7 @@ export default function Footer() {
           </div>
           <div className="flex flex-col gap-2">
             <h1 class="text-lg font-bold">
-
+              Contact Me
             </h1>
 
           </div>
