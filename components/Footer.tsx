@@ -61,6 +61,7 @@ export default function Footer() {
         <div class="grid text-xl font-semibold">
           <p>
             <span class="text-2xl">&copy;</span>
+            {year}
 
           </p>
 
