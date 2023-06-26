@@ -41,9 +41,10 @@ export default function Footer() {
               <p>
                 MolysTechie SiliconLab, Kijitonyama, Dar-es-Salaam
               </p>
-                
             </div>
-
+          </div>
+          <div className="">
+            
           </div>
 
         </div>
