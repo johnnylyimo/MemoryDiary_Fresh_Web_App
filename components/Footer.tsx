@@ -51,13 +51,13 @@ export default function Footer() {
               <IconPhone class="w-6 h-6" />
               <p>0715 291029</p>
             </div>
-            <div className="flex justify-center gap-x-1">
+            <div class="flex justify-center gap-x-1">
               <IconMail class="w-6 h-6" />
               <p>molystechie@gmail.com</p>
             </div>
           </div>
         </div>
-        <hr />
+        <hr class="max-w-xxl"  />
       </section>
     </footer>
   )
