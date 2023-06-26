@@ -34,7 +34,8 @@ export default function Footer() {
           </div>
           <div className="flex flex-col gap-2">
             <h1>
-              
+              Find Me
+
             </h1>
 
           </div>
