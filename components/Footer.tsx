@@ -49,6 +49,7 @@ export default function Footer() {
             </h1>
             <div class="flex justify-center gap-x-1">
               <IconPhone class="w-6 h-6" />
+              <p></p>
             </div>
 
           </div>
