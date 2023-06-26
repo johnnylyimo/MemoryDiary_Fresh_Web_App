@@ -15,12 +15,12 @@ export default function Footer() {
       </section>
 
       <section class='grid md:col-span-3 gap-6 text-center'>
-        <div className="grid gap-y-6 md:flex md:justify-around">
-          <div className="flex flex-col gap-2">
+        <div class="grid gap-y-6 md:flex md:justify-around">
+          <div class="flex flex-col gap-2">
             <h1 class="text-lg font-bold">
               Follow Me
             </h1>
-            <div className="grid gap-y-1">
+            <div class="grid gap-y-1">
               <a href="https://github.com/johnnylyimo"  target="_blank" class="text-xl text-blue-500 font-bold">
                 GitHub
               </a>
@@ -32,22 +32,22 @@ export default function Footer() {
               </a>
             </div>
           </div>
-          <div className="flex flex-col gap-2">
+          <div class="flex flex-col gap-2">
             <h1 class="text-lg font-bold">
               Find Me
             </h1>
-            <div className="flex justify-center gap-x-1">
+            <div class="flex justify-center gap-x-1">
               <IconMapPinFilled class="w-6 h-6" />
               <p>
                 MolysTechie SiliconLab, Kijitonyama, Dar-es-Salaam
               </p>
             </div>
           </div>
-          <div className="flex flex-col gap-2">
+          <div class="flex flex-col gap-2">
             <h1 class="text-lg font-bold">
               Contact Me
             </h1>
-            <div className="">
+            <div class="flex ">
               <IconPhone class="w-6 h-6" />
             </div>
 
