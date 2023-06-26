@@ -20,7 +20,7 @@ export default function Footer() {
             <h1 class="text-lg font-bold">
               Follow Me
             </h1>
-            <div className="grid ">
+            <div className="grid gap-y-1">
 
             </div>
 
