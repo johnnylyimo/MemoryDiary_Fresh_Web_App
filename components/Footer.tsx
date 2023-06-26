@@ -20,8 +20,8 @@ export default function Footer() {
             <h1 class="text-lg font-bold">
               Follow Me
             </h1>
-            <div className="">
-              
+            <div className="grid ">
+
             </div>
 
           </div>
