@@ -24,7 +24,7 @@ export default function Footer() {
               <a href="https://github.com/johnnylyimo"  target="_blank" class="text-xl text-blue-500 font-bold" >
                 GitHub
               </a>
-              <a >
+              <a href="https://twitter.com/johnnylyimo" >
                 Twitter
               </a>
             </div>
