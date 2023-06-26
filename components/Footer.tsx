@@ -38,6 +38,9 @@ export default function Footer() {
             </h1>
             <div className="flex justify-center gap-x-1">
               <IconMapPinFilled class="w-6 h-6" />
+              <p>
+                
+              </p>
                 
             </div>
 
