@@ -31,7 +31,9 @@ export default function Footer() {
                 LinkedIn
               </a>
             </div>
-
+          </div>
+          <div className="">
+            
           </div>
 
         </div>
